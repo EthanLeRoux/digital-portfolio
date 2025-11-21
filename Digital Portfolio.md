@@ -74,7 +74,7 @@ I finalized and submitted my CV. I edited it for clarity and professionalism and
 **Result:** I submitted a complete and professional CV I can use for job applications.
 
 ![](cvsub.png)
-![](Ethan+Le+Roux+Student+CV+222622172.pdf)
+![](https://github.com/EthanLeRoux/digital-portfolio)
 
 <embed src="https://github.com/EthanLeRoux/digital-portfolio/blob/92a5a681dd2aa0d8cf34fce08a795862318dfc0d/Ethan%2BLe%2BRoux%2BStudent%2BCV%2B222622172.pdf" type="application/pdf" width="100%" height="600px" />
 
