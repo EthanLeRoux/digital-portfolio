@@ -76,9 +76,9 @@ I finalized and submitted my CV. I edited it for clarity and professionalism and
 ![](cvsub.png)
 ![](Ethan+Le+Roux+Student+CV+222622172.pdf)
 
-<embed src="Ethan+Le+Roux+Student+CV+222622172.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="https://github.com/EthanLeRoux/digital-portfolio/blob/92a5a681dd2aa0d8cf34fce08a795862318dfc0d/Ethan%2BLe%2BRoux%2BStudent%2BCV%2B222622172.pdf" type="application/pdf" width="100%" height="600px" />
 
-**Link to CV**: https://github.com/wil-it2025/cv-tutorial-EthanLeRoux/blob/main/Ethan%2BLe%2BRoux%2BStudent%2BCV%2B222622172.pdf
+**Link to CV**: https://github.com/EthanLeRoux/digital-portfolio/blob/92a5a681dd2aa0d8cf34fce08a795862318dfc0d/Ethan%2BLe%2BRoux%2BStudent%2BCV%2B222622172.pdf
 
 # Business Communication
 
@@ -116,9 +116,9 @@ I worked through the business communication slides and completed the quizzes
 
 **Evidence:** To prepare for work integrated learning, I created a mock interview video and uploaded it to BlackBoard.
 
-<video controls src="Mock Interview.mp4" title="Title"></video>
+<video controls src="<video controls src="https://github.com/EthanLeRoux/digital-portfolio/blob/92a5a681dd2aa0d8cf34fce08a795862318dfc0d/Mock%20Interview.mp4" title="Mock Interview.mp4"></video>" title="Title"></video>
 
-**Link to Video:** https://github.com/wil-it2025/cv-tutorial-EthanLeRoux/blob/b8802abbfb212b7072d082ec0b47ad884ab86db2/Mock%20Interview.mp4
+**Link to Video:** https://github.com/EthanLeRoux/digital-portfolio/blob/92a5a681dd2aa0d8cf34fce08a795862318dfc0d/Mock%20Interview.mp4
 
 ![alt text](image-2.png)
 
